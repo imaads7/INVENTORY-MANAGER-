@@ -1,0 +1,10 @@
+overview.md.
+# Inventory Manager  Key Features
+
+1. Inventory Tracking: Allows users to add, update, and organize products in their inventory.
+2. Purchase Price Tracking:Records how much each product costs to purchase.
+3. Sales Management: Records completed sales and the selling prices of products.
+4.Profit Calculation:Automatically calculates the profit earned from each sale.
+5. Customer Management: Stores customer information and purchase history.
+6. Business Performance Dashboard: Provides an overview of sales, profits, and inventory performance.
+7.Inventory Status: Helps users identify which products are available and which have been sold.
